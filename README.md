@@ -60,20 +60,5 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tungagnaneswar&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tungagnaneswar&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungagnaneswar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## ⭐ Let’s Build Something Awesome
 If you like my work, feel free to ⭐ my repositories and connect with me!
