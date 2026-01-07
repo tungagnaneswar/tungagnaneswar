@@ -47,7 +47,7 @@
 - Full-stack food ordering platform (Swiggy/Zomato-like)
 - Features: Authentication, cart, orders, admin panel
 - Tech: React.js, TypeScript, Node.js, Express, PostgreSQL, AWS S3  
-🔗 **Live:** YOUR_LIVE_LINK  
+🔗 **Live:** [LIVE_LINK](https://ecom-web-app-ten.vercel.app/)  
 📦 **Repo:** YOUR_GITHUB_REPO_LINK
 
 ---
