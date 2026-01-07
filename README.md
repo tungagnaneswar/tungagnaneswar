@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eswar</h1>
 <h3 align="center">A Passionate Full Stack Software Developer from India 🇮🇳</h3>
 
-<p align="center">
-  <a href="https://github.com/tungagnaneswar">
-    <img src="https://komarev.com/ghpvc/?username=tungagnaneswar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
