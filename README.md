@@ -15,6 +15,7 @@
 - ☁️ Cloud: **AWS S3**
 - 🌱 Currently improving **Backend performance & system design**
 - 📫 Email: **tungagnaneswar12@gmail.com**
+- 📞 Contact: +91-6301508340
 
 ---
 
@@ -47,14 +48,6 @@
 - Features: Authentication, cart, orders, admin panel
 - Tech: React.js, TypeScript, Node.js, Express, PostgreSQL, AWS S3  
 🔗 **Live:** YOUR_LIVE_LINK  
-📦 **Repo:** YOUR_GITHUB_REPO_LINK
-
----
-
-### 🏨 PMS (Property Management System)
-- Role-based PMS for staff & admin management
-- Secure APIs and database design
-- Tech: React.js, Node.js, Express, PostgreSQL  
 📦 **Repo:** YOUR_GITHUB_REPO_LINK
 
 ---
