@@ -21,7 +21,7 @@
 
 ## 🌐 Portfolio & Links
 <p align="left">
-<a href="YOUR_PORTFOLIO_URL" target="_blank">
+<a href="https://tungagnaneswar.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
