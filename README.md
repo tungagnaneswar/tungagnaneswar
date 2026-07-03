@@ -43,6 +43,14 @@
 
 ## 🚀 Featured Projects
 
+### 🗄️ SchemaVault – Database Schema Management Platform
+- Enterprise database schema versioning and comparison platform
+- Features: Schema snapshots, schema diff, migration history, role-based authentication, project/team management, PostgreSQL support, Docker deployment
+- Tech: Java, Spring Boot, Spring Security, PostgreSQL, React.js, TypeScript, Docker, JWT, Flyway
+📦 **Repo:** YOUR_SCHEMA_VAULT_GITHUB_REPO
+
+---
+
 ### 🍔 Fast Food Ordering Application
 - Full-stack food ordering platform (Swiggy/Zomato-like)
 - Features: Authentication, cart, orders, admin panel
