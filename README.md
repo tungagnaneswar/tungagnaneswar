@@ -36,7 +36,7 @@
 
 ## 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,postgres,aws,git,github,vite,vercel,java" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,ts,vite,nodejs,express,docker,aws,git,github,vercel" />
 </p>
 
 ---
