@@ -47,7 +47,8 @@
 - Enterprise database schema versioning and comparison platform
 - Features: Schema snapshots, schema diff, migration history, role-based authentication, project/team management, PostgreSQL support, Docker deployment
 - Tech: Java, Spring Boot, Spring Security, PostgreSQL, React.js, TypeScript, Docker, JWT, Flyway
-📦 **Repo:** YOUR_SCHEMA_VAULT_GITHUB_REPO
+🔗 **Live:** [LIVE_LINK](https://schema-vault-kappa.vercel.app/)  
+📦 **Repo:** [GITHUB_REPO_LINK](https://github.com/tungagnaneswar/schema-vault-backend)
 
 ---
 
@@ -56,15 +57,14 @@
 - Features: Authentication, cart, orders, admin panel
 - Tech: React.js, TypeScript, Node.js, Express, PostgreSQL, AWS S3  
 🔗 **Live:** [LIVE_LINK](https://ecom-web-app-ten.vercel.app/)  
-📦 **Repo:** YOUR_GITHUB_REPO_LINK
+📦 **Repo:** [GITHUB_REPO_LINK](https://github.com/tungagnaneswar/ecom-web-app)
 
 ---
 
 ### 🛒 E-Commerce / Product Management System
 - Product listing, categories, images & CRUD operations
 - Optimized backend APIs
-- Tech: React.js, TypeScript, Express.js, PostgreSQL  
-📦 **Repo:** YOUR_GITHUB_REPO_LINK
+- Tech: React.js, TypeScript, Express.js, PostgreSQL
 
 ---
 
