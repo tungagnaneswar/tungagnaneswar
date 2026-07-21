@@ -46,7 +46,7 @@
 ### 🗄️ SchemaVault – Database Schema Management Platform
 - Enterprise database schema versioning and comparison platform
 - Features: Schema snapshots, schema diff, migration history, role-based authentication, project/team management, PostgreSQL support, Docker deployment
-- Tech: Java, Spring Boot, Spring Security, PostgreSQL, React.js, TypeScript, Docker, JWT, Flyway
+- Tech: Java, Spring Boot, Spring Security, PostgreSQL, React.js, TypeScript, Docker, JWT, Flyway  
 🔗 **Live:** [LIVE_LINK](https://schema-vault-kappa.vercel.app/)  
 📦 **Repo:** [GITHUB_REPO_LINK](https://github.com/tungagnaneswar/schema-vault-backend)
 
