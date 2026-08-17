@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;React+%7C+TypeScript;Core+Java+%7C+Spring+Boot;PostgreSQL+%7C+AWS+S3;Building+Real-World+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=520&lines=Java+Full+Stack+Developer;React+%7C+TypeScript;Core+Java+%7C+Spring+Boot;PostgreSQL+%7C+AWS+S3;Building+Real-World+Applications" />
 </p>
 
 ---
