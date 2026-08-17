@@ -43,7 +43,7 @@
 
 ## 🚀 Featured Projects
 
-### 🗄️ SchemaVault – Database Schema Management Platform
+### 🗄️ Schema Vault - Database Schema Comparison & Drift Detection Platform
 - Enterprise database schema versioning and comparison platform
 - Features: Schema snapshots, schema diff, migration history, role-based authentication, project/team management, PostgreSQL support, Docker deployment
 - Tech: Java, Spring Boot, Spring Security, PostgreSQL, React.js, TypeScript, Docker, JWT, Flyway  
