@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 - 🚀 Full Stack Software Developer with hands-on project experience  
 - 💻 Frontend: **React.js, TypeScript**
-- 🛠 Backend: **Java, Spring Boot, Node.js, Express.js**
+- 🛠 Backend: **Java, Spring Boot, Sprint Security**
 - 🗄 Database: **PostgreSQL & MongoDB**
 - ☁️ Cloud: **AWS S3**
 - 🌱 Currently improving **Backend performance & system design**
