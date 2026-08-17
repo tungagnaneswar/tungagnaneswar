@@ -11,7 +11,7 @@
 - 🚀 Full Stack Software Developer with hands-on project experience  
 - 💻 Frontend: **React.js, TypeScript**
 - 🛠 Backend: **Java, Spring Boot, Sprint Security**
-- 🗄 Database: **PostgreSQL & MongoDB**
+- 🗄 Database: **PostgreSQL**
 - ☁️ Cloud: **AWS S3**
 - 🌱 Currently improving **Backend performance & system design**
 - 📫 Email: **tungagnaneswar12@gmail.com**
