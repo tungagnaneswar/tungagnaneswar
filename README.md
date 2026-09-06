@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gnaneswar</h1>
-<h3 align="center">Java Software Developer from India 🇮🇳</h3>
+<h3 align="center">Java Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=520&lines=Java+Developer;React+%7C+TypeScript;Java+Programming+%7C+Spring+Boot;PostgreSQL+%7C+AWS+S3;Building+Real-World+Applications" />
